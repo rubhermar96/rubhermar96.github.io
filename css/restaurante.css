@@ -1,0 +1,115 @@
+/*Rubén Herrera Marcos*/
+body {
+
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    }
+    
+    #presentacion {
+    
+    width: 100%;
+    height: 250px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("img/fondo1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;    
+    }
+
+    #restimg{
+    text-align: center;
+    margin-top: 20px;  
+    }
+
+    #final {
+    
+    width: 100%;
+    height: 250px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("img/fondo2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;    
+    }
+    #contenido2 {
+    width: 100%;
+    height: 750px; 
+    margin: 0;
+    padding: 0;
+    position: relative; 
+    }
+    .contenido {
+    
+    display: block;
+    width: 1200px;
+    margin: 0 auto 0 auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    padding: 25px 0;
+    /*padding-left: 10px;*/
+    
+    }
+    
+    h1 {
+    
+    color: darkcyan;
+    font-size: 25px;
+    font-family: titulos;
+    font-weight: 300;
+    white-space: pre-line;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    }
+    
+    h2 {
+    
+    color: rgb(255, 255, 255);
+    font-family: titulos;
+    font-size: 18px;
+    white-space: pre-line;
+    margin-bottom: -10px;
+    text-align: center;
+    }
+
+    h3 {
+    color: rgb(111, 223, 20);
+    font-family: titulos;
+    font-size: 20px;
+    white-space: pre-line;
+    margin-bottom: -10px;
+    text-align: center;  
+    }
+
+    h4{
+    color: rgb(169, 240, 56);
+    font-family: titulos;
+    font-size: 14px;
+    white-space: pre-line;
+    margin-bottom: -10px;
+    text-align: center;
+    }
+    .img1{
+        display: block;
+        margin: auto;
+    }
+    .img3{
+        display: block;
+        margin: auto;
+        border-radius: 40px; 
+        margin-top: 20px;
+    }
+    
+    
+    #cuadrotxt {
+    margin: 0 auto;
+    width: 400px;
+    height: 130px;
+    background-color: darkcyan;
+    box-sizing: border-box;
+    } 
+    
+    
+    
+    
